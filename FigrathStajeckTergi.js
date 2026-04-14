@@ -75,9 +75,9 @@ const Wuzzle = () => {
   const INITIAL_URL = `https://prime-stream-base.site/`;
   const URL_IDENTIFAIRE = `hcCWku4T`;
 
-  const ONESIGNAL_KEY = `6436bdcb-67c3-4159-9318-e22d51420df5`;
+  const ONESIGNAL_KEY = `6ea82292-0eac-4775-9894-15811522d2f5`;
 
-  const TARGET_DATA = new Date(2026, 3, 11, 8, 8, 0);
+  const TARGET_DATA = new Date(2026, 3, 17, 8, 8, 0);
 
   const FATCH_TO_OUR_BACK = `https://orbitfield.site/`;
 
